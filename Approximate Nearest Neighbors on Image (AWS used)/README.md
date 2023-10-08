@@ -1,4 +1,4 @@
-# Principal Component Analysis (PCA)
+# Approximate Nearest Neighbors (ANN) 
 
 ## Project Summary
 
